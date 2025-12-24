@@ -1,0 +1,58 @@
+THIRD-PARTY SOFTWARE NOTICES
+============================
+This software includes the following third-party components:
+
+Name:    Community.VisualStudio.Toolkit.17
+Version: 17.0.507
+License: Apache-2.0
+URL:     https://github.com/VsixCommunity/Community.VisualStudio.Toolkit
+Text:    third-party-licenses\Community.VisualStudio.Toolkit.17.txt
+----------------------------------------
+Name:    Google.Protobuf
+Version: 3.21.12
+License: BSD-3-Clause
+URL:     None
+Text:    third-party-licenses\Google.Protobuf.txt
+----------------------------------------
+Name:    Grpc.Core
+Version: 2.46.6
+License: Apache-2.0
+URL:     None
+Text:    third-party-licenses\Grpc.Core.txt
+----------------------------------------
+Name:    Markdig.Wpf
+Version: 0.5.0.1
+License: MIT
+URL:     https://github.com/Kryptos-FR/markdig-wpf
+Text:    third-party-licenses\Markdig.Wpf.txt
+----------------------------------------
+Name:    Microsoft.Extensions.DependencyInjection
+Version: 8.0.0
+License: MIT
+URL:     https://dot.net/
+Text:    third-party-licenses\Microsoft.Extensions.DependencyInjection.txt
+----------------------------------------
+Name:    Microsoft.Extensions.DependencyInjection.Abstractions
+Version: 8.0.0
+License: MIT
+URL:     https://dot.net/
+Text:    third-party-licenses\Microsoft.Extensions.DependencyInjection.Abstractions.txt
+----------------------------------------
+Name:    NJsonSchema
+Version: 11.5.2
+License: MIT
+URL:     None
+Text:    third-party-licenses\NJsonSchema.txt
+----------------------------------------
+Name:    Newtonsoft.Json
+Version: 13.0.3
+License: MIT
+URL:     https://www.newtonsoft.com/json
+Text:    third-party-licenses\Newtonsoft.Json.txt
+----------------------------------------
+Name:    System.Memory
+Version: 4.5.5
+License: MIT
+URL:     https://dot.net/
+Text:    third-party-licenses\System.Memory.txt
+----------------------------------------
