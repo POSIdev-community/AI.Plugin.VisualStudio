@@ -38,6 +38,24 @@ License: MIT
 URL:     https://dot.net/
 Text:    third-party-licenses\Microsoft.Extensions.DependencyInjection.Abstractions.txt
 ----------------------------------------
+Name:    Microsoft.VisualStudio.Text.Data
+Version: 17.0.32112.339
+License: Microsoft Visual Studio Add-on EULA
+URL:     https://aka.ms/vsextensibility
+Text:    third-party-licenses\Microsoft.VisualStudio.Text.Data.txt
+----------------------------------------
+Name:    Microsoft.VisualStudio.Text.Logic
+Version: 17.0.32112.339
+License: Microsoft Visual Studio Add-on EULA
+URL:     https://aka.ms/vsextensibility
+Text:    third-party-licenses\Microsoft.VisualStudio.Text.Logic.txt
+----------------------------------------
+Name:    Microsoft.VisualStudio.Text.UI.Wpf
+Version: 17.0.32112.339
+License: Microsoft Visual Studio Add-on EULA
+URL:     https://aka.ms/vsextensibility
+Text:    third-party-licenses\Microsoft.VisualStudio.Text.UI.Wpf.txt
+----------------------------------------
 Name:    NJsonSchema
 Version: 11.5.2
 License: MIT
